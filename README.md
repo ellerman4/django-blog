@@ -7,7 +7,7 @@ and should not be used as a learning resource.
 Posts can be easily added/edited through the Django admin panel.
 
 
-![ee9b8697ef7a259e98c5e180d9d66e7d](https://user-images.githubusercontent.com/106990217/184050146-b34f7276-99fc-4bd6-ad2e-bd45c6640031.png)
+![ee9b8697ef7a259e98c5e180d9d66e7d](https://i.gyazo.com/1abc2e8389716f512cd52e4efeba1794.png)
 
 ## Usage
 
@@ -32,5 +32,8 @@ Run server
 python manage.py runserver
 ```
 
----
-<img src="https://user-images.githubusercontent.com/106990217/184200105-d8b8b73b-3436-4065-b525-38e9e1b32e5b.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60" height="60"> 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/106990217/184466130-0a7e6753-d8d9-4126-9403-0539d72a203a.png" style="">
+</p>
+
+
