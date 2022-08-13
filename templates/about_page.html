@@ -5,7 +5,7 @@
     <div class="container px-5 mx-auto">
       <div class="h-screen flex items-center justify-center">
 
-        <card class="relative h-[30rem] sm:h-96 w-[35rem] rounded-lg">
+        <card id="testcard" class="relative h-[30rem] sm:h-96 w-[35rem] rounded-lg">
       
           <!-- Background Image -->
           <img src="https://i.imgur.com/XhNhg9K.png" class="object-cover w-full h-full rounded-lg" />
@@ -38,7 +38,11 @@
         </card>
       
       </div>
-    </div>
+    </div>  
   </section>
-
+<style>
+  #testcard {
+    filter: drop-shadow(0 0 0.75rem #4444dd);
+  }
+</style>
 {% endblock content %}
