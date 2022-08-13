@@ -7,7 +7,7 @@ and should not be used as a learning resource.
 Posts can be easily added/edited through the Django admin panel.
 
 
-![ee9b8697ef7a259e98c5e180d9d66e7d](https://user-images.githubusercontent.com/106990217/184050146-b34f7276-99fc-4bd6-ad2e-bd45c6640031.png)
+![ee9b8697ef7a259e98c5e180d9d66e7d](https://i.gyazo.com/1abc2e8389716f512cd52e4efeba1794.png)
 
 ## Usage
 
