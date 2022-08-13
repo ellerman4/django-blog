@@ -32,5 +32,8 @@ Run server
 python manage.py runserver
 ```
 
----
-<img src="https://user-images.githubusercontent.com/106990217/184200105-d8b8b73b-3436-4065-b525-38e9e1b32e5b.png" width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="60" height="60"> 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/106990217/184466130-0a7e6753-d8d9-4126-9403-0539d72a203a.png" style="">
+</p>
+
+
