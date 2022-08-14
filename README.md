@@ -4,7 +4,7 @@
 A blog site made with Django framework.  I'll be posting various cs concepts I learn here, in order to "learn by teaching".  Will not be super well structured, 
 and should not be used as a learning resource.
 
-Posts can be easily added/edited through the Django admin panel.
+Posts can be easily added/edited through the Django admin panel. Post support markdown for easy customization.
 
 
 ![ee9b8697ef7a259e98c5e180d9d66e7d](https://i.gyazo.com/1abc2e8389716f512cd52e4efeba1794.png)
